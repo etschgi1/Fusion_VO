@@ -1,3 +1,48 @@
 \babel@toc {nil}{}\relax 
-\contentsline {section}{\numberline {A}Chapter 0}{3}{section.1}%
+\contentsline {section}{\numberline {A}Chapter 0: Energy and Global Income Distribution}{4}{section.1}%
+\contentsline {subsection}{\numberline {A.1}How is income distributed globally, and how does it relate to energy consumption?}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {A.2}Compute the primary energy consumption in a fully developed country per capita and day from:}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {A.2.1}a) Estimating a person's individual consumption (heating, electricity, car, etc.)}{4}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {A.2.2}b) From the macroeconomic perspective of a whole country}{4}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {A.3}Explain energy intensity}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {A.4}How do primary energy consumption and consumer electricity differ?}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {A.5}What's the energy mix in Austria?}{4}{subsection.1.5}%
+\contentsline {subsection}{\numberline {A.6}Given a number for reserves of a single fossil resource, compute:}{5}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {A.6.1}a) What part of the energy mix it can contribute sustainably (1000 years)}{5}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {A.6.2}b) How long would it last at current consumption levels}{5}{subsubsection.1.6.2}%
+\contentsline {subsection}{\numberline {A.7}How much W/m\textsuperscript {2} can various energy sources produce? How would you compute it?}{5}{subsection.1.7}%
+\contentsline {subsection}{\numberline {A.8}Discuss whether renewables compete with arable land for food production. What about biofuels?}{5}{subsection.1.8}%
+\contentsline {subsection}{\numberline {A.9}Discuss the ongoing price-drop in solar, and what it means for other alternatives, such as future fusion energy}{5}{subsection.1.9}%
+\contentsline {subsection}{\numberline {A.10}Discuss the question of perceived and quantitative risk for the environment from various aspects of civilization (e.g., birds vs cats/wind turbines)}{5}{subsection.1.10}%
+\contentsline {subsection}{\numberline {A.11}Are there CO\textsubscript {2}-free energy sources? Why/why not?}{6}{subsection.1.11}%
+\contentsline {section}{\numberline {B}Chapter 1: Nuclear Energy and Fusion}{7}{section.2}%
+\contentsline {subsection}{\numberline {B.1}Give a historical perspective of the controlled use of nuclear energy in general and fusion in particular.}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {B.2}Draw and explain a schematic fusion power plant.}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {B.3}Explain the difference between magnetic and inertial confinement fusion.}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {C}Chapter 2: Discoveries Leading to Fusion}{8}{section.3}%
+\contentsline {subsection}{\numberline {C.1}Give a historical perspective on the scientific discoveries that led to the discovery of fusion.}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {C.2}Explain how the mass defect of various isotopes can be used to extract energy in fission and fusion.}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {D}Chapter 3: Stellar Energy and Fusion}{9}{section.4}%
+\contentsline {subsection}{\numberline {D.1}Where does the energy in stars come from, and how was it conjectured?}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {D.2}Write the reaction of the proton-proton cycle. Why is it important for stars?}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {D.3}How are stars able to generate conditions for fusion, and why do we need other ways on earth?}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {D.4}What's the meaning of different star stages and their composition? What stage is the Sun and elements can it produce?}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {D.5}Explain primordial nucleosynthesis and how it led to the current universe.}{9}{subsection.4.5}%
+\contentsline {section}{\numberline {E}Chapter 4: Fusion on Earth}{10}{section.5}%
+\contentsline {subsection}{\numberline {E.1}Write equations and explain similarities and differences between fusion reactions that are realistically possible to do on earth.}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {E.2}Why is tritium a scarce resource and how to produce it?}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {E.3}Draw the overall fuel cycle of a D-T fusion plant.}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {E.4}Explain the difficulty to achieve fusion regarding the Coulomb barrier. What makes it easier than an estimation via classical physics?}{10}{subsection.5.4}%
+\contentsline {subsection}{\numberline {E.5}What temperatures are needed for thermonuclear fusion? Explain with regard to the reaction cross-section.}{10}{subsection.5.5}%
+\contentsline {subsection}{\numberline {E.6}Explain the power amplification factor, break-even point, and ignition criterion.}{10}{subsection.5.6}%
+\contentsline {subsection}{\numberline {E.7}What is the fusion triple-product? Explain all three terms and the ways to get a high value in magnetic and inertial confinement fusion.}{11}{subsection.5.7}%
+\contentsline {subsection}{\numberline {E.8}Discuss from a historical perspective how close we are to reach scientific and technical break-even and ignition for various fusion technologies.}{11}{subsection.5.8}%
+\contentsline {section}{\numberline {F}Chapter 5: MISSING}{12}{section.6}%
+\contentsline {section}{\numberline {G}Chapter 6: The Hydrogen Bomb}{13}{section.7}%
+\contentsline {subsection}{\numberline {G.1}Give a historical international perspective on the development of the H-bomb.}{13}{subsection.7.1}%
+\contentsline {subsection}{\numberline {G.2}Explain the requirement for a H-bomb and advantages over pure fission.}{13}{subsection.7.2}%
+\contentsline {subsection}{\numberline {G.3}Discuss limited resources and processing for Uranium and Tritium.}{13}{subsection.7.3}%
+\contentsline {subsection}{\numberline {G.4}How does an H-bomb in the Teller-Ulam design work? Draw and explain.}{13}{subsection.7.4}%
+\contentsline {subsection}{\numberline {G.5}Discuss ideas for civil uses of nuclear bombs and why they failed.}{13}{subsection.7.5}%
+\contentsline {section}{\numberline {H}Chapter 7: MISSING}{14}{section.8}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
